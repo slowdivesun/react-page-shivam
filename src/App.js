@@ -5,6 +5,7 @@ import Total from "./Components/Total/index"
 import Address from "./Components/Address/index"
 import Dropship from "./Components/Dropship/index"
 import Finish from "./Components/Finish/index"
+import Vouch from "./Components/Voucher/index"
 import "./App.css"
 
 const details = {option: "Shipping"}
@@ -31,13 +32,15 @@ const App = () => {
   <div class="container">
     <Bar />
     <Address />
-    {/* <Dropship /> */}
+    <Dropship />
     <Options options={details} />
     <Options options={payment} />
     <div className="orders">
+      <h3 class="heading">Order Detail</h3>
       <Order orderDetails={order} />
       <Order orderDetails={order} />
     </div>
+    <Vouch />
     <Total orderDetails={total} />
     <Finish />
   </div>

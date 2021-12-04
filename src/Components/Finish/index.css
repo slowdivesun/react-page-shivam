@@ -5,16 +5,17 @@
     text-align: center;
     vertical-align: middle;
     padding-top: 5px;
+    border-radius: 5px;
 }
 
 .finish-container{
     margin-left: 12px;
     margin-right: 12px;
     /* line-height: 12px; */
-    box-shadow: 0px 2px 1px 1px rgb(235, 235, 235)
+    /* box-shadow: 0px 2px 1px 1px rgb(235, 235, 235) */
 }
 
-p{
+.finish-container p{
     font-weight: 450;
     margin-bottom: 0px;
     margin-top: 5px;
