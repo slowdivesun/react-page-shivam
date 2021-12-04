@@ -1,0 +1,25 @@
+.bar-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 5px;
+    background-color: #e70074;
+    height: 30px;
+    column-gap: 5px;
+    color: white;
+    height: 51px;
+    font-size: 20px;
+}
+
+h4{
+    font-weight: 300;
+}
+
+i{
+    padding: 10px;
+}
+
+h4{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
