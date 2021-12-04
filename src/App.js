@@ -4,6 +4,7 @@ import Order from "./Components/Order/index"
 import Total from "./Components/Total/index"
 import Address from "./Components/Address/index"
 import Dropship from "./Components/Dropship/index"
+import Finish from "./Components/Finish/index"
 import "./App.css"
 
 const details = {option: "Shipping"}
@@ -38,6 +39,7 @@ const App = () => {
       <Order orderDetails={order} />
     </div>
     <Total orderDetails={total} />
+    <Finish />
   </div>
   )
 }
