@@ -50,15 +50,16 @@ img{
 .order-full-details{
     display: flex;
     flex-direction: column;
+    padding-left: 7px;
 }
 
 input{
     border-width: 0px;
-    width: 100%;
+    width: 95%;
     border-bottom: #8B8B8B 1px solid;
     outline: none;
     padding: 5px;
-    margin: 5px 0px;
+    margin: 15px 0px;
     margin-top: 10px;
     box-sizing: border-box;
 }
@@ -66,4 +67,9 @@ input{
 input::placeholder{
     color: #A4A4A6;
     font-size: 17px;
+}
+
+.orders{
+    background-color: white;
+    border-radius: 5px;
 }

@@ -1,7 +1,8 @@
-.total-container{
+.vouch-container{
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    padding-left: 7px;
+    justify-content: space-between;
     box-shadow: 0px 2px 1px 1px rgb(235, 235, 235);
     border-radius: 5px;
     margin-left: 12px;
@@ -9,10 +10,10 @@
     background-color: white;
 }
 
-.total-container p{
-    margin: 7px;
+.code{
+    width: 100%;
 }
 
-.items{
-    font-weight: 600;
+.button{
+    padding: 0px 10px;
 }
