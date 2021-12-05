@@ -6,12 +6,31 @@
     line-height: 12px;
     box-shadow: 0px 2px 1px 1px rgb(235, 235, 235);
     border-radius: 5px;
-    padding-left: 7px;
+    padding-left: 16px;
     background-color: white;
 }
 
 .select-opt{
-    color:rgb(74, 76, 79);
+    color:#8B8B8B;
     font-size: 15px;
     padding: 0px;
+}
+
+.options-container h3{
+    /* margin: 10px 0px; */
+}
+
+.options-heading{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.fa-chevron-right{
+    padding-right: 20px;
+}
+
+.options-container a{
+    color: black;
+    text-decoration: none;
 }

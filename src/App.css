@@ -59,5 +59,6 @@ body{
 }
 
 .heading{
-  padding-left: 7px;
+  padding-left: 16px;
+  margin: 10px 0px;
 }

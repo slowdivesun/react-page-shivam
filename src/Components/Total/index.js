@@ -13,13 +13,13 @@ const Total = (props) => {
                 <p>Grand Total</p>
             </div>
             <div className="info">
-                <p>Total items</p>
+                {/* <p>Total items</p> */}
                 <p>{quant} Item</p>
                 <p>{wt} Gram</p>
                 <p>Rp {price}</p>
                 <p>Rp. {vouch}</p>
                 <p>Rp. {shipping}</p>
-                <p>Grand {total}</p>
+                <p>Rp. {total}</p>
             </div>
             {/* <div className="message"> */}
                 {/* <input type="text"/>

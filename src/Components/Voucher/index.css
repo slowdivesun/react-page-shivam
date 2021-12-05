@@ -1,13 +1,20 @@
-.vouch-container{
+.outer-vouch{
     display: flex;
     flex-direction: row;
     padding-left: 7px;
-    justify-content: space-between;
-    box-shadow: 0px 2px 1px 1px rgb(235, 235, 235);
+    justify-content: space-between;   
+    border-bottom: #8B8B8B 1px solid;
+    margin-bottom: 6px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.vouch-container{
     border-radius: 5px;
     margin-left: 12px;
     margin-right: 12px;
     background-color: white;
+    box-shadow: 0px 2px 1px 1px rgb(235, 235, 235);
 }
 
 .code{
@@ -16,4 +23,16 @@
 
 .button{
     padding: 0px 10px;
+}
+
+.outer-vouch input {
+    border-width: 0px;
+    width: 95%;
+    /* border-bottom: #8B8B8B 1px solid; */
+    outline: none;
+    padding-left: 10px;
+}
+
+.outer-vouch{
+    align-items: center;
 }
