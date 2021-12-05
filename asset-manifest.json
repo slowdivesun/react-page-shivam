@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-page-shivam/static/css/main.f1550ed8.chunk.css",
+    "main.css": "/react-page-shivam/static/css/main.8e5b1722.chunk.css",
     "main.js": "/react-page-shivam/static/js/main.b28db443.chunk.js",
     "main.js.map": "/react-page-shivam/static/js/main.b28db443.chunk.js.map",
     "runtime-main.js": "/react-page-shivam/static/js/runtime-main.8fdfebed.js",
@@ -10,14 +10,14 @@
     "static/js/3.972b44cf.chunk.js": "/react-page-shivam/static/js/3.972b44cf.chunk.js",
     "static/js/3.972b44cf.chunk.js.map": "/react-page-shivam/static/js/3.972b44cf.chunk.js.map",
     "index.html": "/react-page-shivam/index.html",
-    "static/css/main.f1550ed8.chunk.css.map": "/react-page-shivam/static/css/main.f1550ed8.chunk.css.map",
+    "static/css/main.8e5b1722.chunk.css.map": "/react-page-shivam/static/css/main.8e5b1722.chunk.css.map",
     "static/js/2.87a1b9d9.chunk.js.LICENSE.txt": "/react-page-shivam/static/js/2.87a1b9d9.chunk.js.LICENSE.txt",
     "static/media/purse.0229e781.jpg": "/react-page-shivam/static/media/purse.0229e781.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8fdfebed.js",
     "static/js/2.87a1b9d9.chunk.js",
-    "static/css/main.f1550ed8.chunk.css",
+    "static/css/main.8e5b1722.chunk.css",
     "static/js/main.b28db443.chunk.js"
   ]
 }
