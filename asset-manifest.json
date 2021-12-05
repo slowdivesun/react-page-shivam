@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-page/static/css/main.3bd8ecfc.chunk.css",
+    "main.js": "/react-page/static/js/main.1c1f7365.chunk.js",
+    "main.js.map": "/react-page/static/js/main.1c1f7365.chunk.js.map",
+    "runtime-main.js": "/react-page/static/js/runtime-main.84f29dd1.js",
+    "runtime-main.js.map": "/react-page/static/js/runtime-main.84f29dd1.js.map",
+    "static/js/2.115365ad.chunk.js": "/react-page/static/js/2.115365ad.chunk.js",
+    "static/js/2.115365ad.chunk.js.map": "/react-page/static/js/2.115365ad.chunk.js.map",
+    "static/js/3.35be21d4.chunk.js": "/react-page/static/js/3.35be21d4.chunk.js",
+    "static/js/3.35be21d4.chunk.js.map": "/react-page/static/js/3.35be21d4.chunk.js.map",
+    "index.html": "/react-page/index.html",
+    "static/css/main.3bd8ecfc.chunk.css.map": "/react-page/static/css/main.3bd8ecfc.chunk.css.map",
+    "static/js/2.115365ad.chunk.js.LICENSE.txt": "/react-page/static/js/2.115365ad.chunk.js.LICENSE.txt",
+    "static/media/purse.0229e781.jpg": "/react-page/static/media/purse.0229e781.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.84f29dd1.js",
+    "static/js/2.115365ad.chunk.js",
+    "static/css/main.3bd8ecfc.chunk.css",
+    "static/js/main.1c1f7365.chunk.js"
+  ]
+}
