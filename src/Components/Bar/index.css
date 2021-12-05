@@ -9,6 +9,9 @@
     color: white;
     height: 51px;
     font-size: 20px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
 }
 
 h4{
