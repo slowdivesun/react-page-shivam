@@ -4,7 +4,7 @@ const Bar = () => {
     return (
         <div className="bar-container">
             <div className="back">
-                <a href="https://google.com">
+                <a href="#">
                 <ArrowLeftIcon className="left-arrow"/>
                 {/* <i class="fas fa-arrow-left"></i> */}
                 </a>
