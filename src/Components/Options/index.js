@@ -6,7 +6,7 @@ const Options = props => {
     console.log(option)
     return (
         <div className="options-container">
-            <a href="#">
+            <a href="">
             <div className="options-heading">
                 <h3>{option} Option</h3>
                 <ChevronRightIcon className="arrow"/>
