@@ -27,3 +27,13 @@ h4{
 a{
     color: white;
 }
+
+.left-arrow{
+    width: 20px;
+    padding: 5px 5px 0px 5px;
+    /* height: 20px; */
+}
+
+.back{
+    padding-left: 10px;
+}

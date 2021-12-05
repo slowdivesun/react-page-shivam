@@ -1,4 +1,5 @@
 import "./index.css"
+import {ChevronRightIcon} from "@heroicons/react/outline"
 const Options = props => {
     const {options} = props
     const {option} = options
@@ -8,7 +9,8 @@ const Options = props => {
             <a href="#">
             <div className="options-heading">
                 <h3>{option} Option</h3>
-                <i class="fas fa-chevron-right"></i>
+                <ChevronRightIcon className="arrow"/>
+                {/* <i class="fas fa-chevron-right"></i> */}
             </div>
             </a>
             

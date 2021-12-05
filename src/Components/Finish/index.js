@@ -2,11 +2,11 @@ import "./index.css"
 const Finish = () => {
     return (
         <div className="finish-container">
-            <p>With Payment, I agree with terms and condition</p>
+            <p>With Payment, I agree with terms & condition</p>
             <a href="#">
-                <div className="finish">
-                <p>FINISH</p>
-            </div>
+                <button className="finish">
+                    FINISH
+                </button>
             </a>
         </div>
     )

@@ -20,11 +20,11 @@ const order = {
 
 const total = {
   quant: 2,
-  wt: 2.2000,
-  price: 360.000,
-  vouch: 0,
-  shipping: 0,
-  total: 360
+  wt: "2.2000",
+  price: "360.000",
+  vouch: "0",
+  shipping: "0",
+  total: "360.000"
 }
 
 const App = () => {

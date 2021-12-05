@@ -2,10 +2,14 @@
     color: white;
     background-color: #e70074;
     height: 40px;
+    width: 100%;
     text-align: center;
-    vertical-align: middle;
-    padding-top: 5px;
     border-radius: 5px;
+    border: 0px;
+    font-size: 14px;
+    font-weight: 550;
+    box-shadow: 0px 2px 1px 1px rgb(235, 235, 235);
+    height: 45px;
 }
 
 .finish-container{
@@ -16,9 +20,10 @@
 }
 
 .finish-container p{
-    font-weight: 450;
+    
     margin-bottom: 5px;
     margin-top: 5px;
+    
 }
 
 .finish-container a{

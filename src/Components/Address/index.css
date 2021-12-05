@@ -6,23 +6,30 @@
     line-height: 12px;
     box-shadow: 0px 2px 1px 1px rgb(235, 235, 235);
     border-radius: 5px;
-    padding-left: 12px;
+    padding-left: 16px;
     background-color: white;
 }
 
 .add{
     color:#8B8B8B;
-    font-size: 15px;
+    font-size: 17px;
     padding: 0px;
+    margin: 10px 0px 17px 0px;
 }
 
 .address-heading{
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 15px;
+    padding-top: 7px;
 }
 
 .address-container a{
     color: black;
     text-decoration: none;
+}
+
+.address-heading h3{
+    margin: 10px 0px;
 }

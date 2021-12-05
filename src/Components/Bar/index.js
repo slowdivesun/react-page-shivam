@@ -1,10 +1,12 @@
 import "./index.css"
+import {ArrowLeftIcon} from "@heroicons/react/solid"
 const Bar = () => {
     return (
         <div className="bar-container">
-            <div>
+            <div className="back">
                 <a href="#">
-                <i class="fas fa-arrow-left"></i>
+                <ArrowLeftIcon className="left-arrow"/>
+                {/* <i class="fas fa-arrow-left"></i> */}
                 </a>
             </div>
             <div>

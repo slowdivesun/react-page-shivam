@@ -16,10 +16,10 @@ const Total = (props) => {
                 {/* <p>Total items</p> */}
                 <p>{quant} Item</p>
                 <p>{wt} Gram</p>
-                <p>Rp {price}</p>
-                <p>Rp. {vouch}</p>
-                <p>Rp. {shipping}</p>
-                <p>Rp. {total}</p>
+                <p className="total-details"><span>Rp.</span>  {price}</p>
+                <p className="total-details"><span>Rp.</span>  <span className="voucher">{vouch}</span></p>
+                <p className="total-details"><span>Rp.</span>  {shipping}</p>
+                <p className="total-price total-details"><span>Rp.</span>  {total}</p>
             </div>
             {/* <div className="message"> */}
                 {/* <input type="text"/>
